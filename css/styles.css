@@ -17,6 +17,25 @@ html {
   /*height:1500px;*/
 }
 
+
+a:link {
+    color: #848484;
+    text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+li {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+a {
+  padding: 8px;  
+}
+
 header {
   text-align: center;
 }
